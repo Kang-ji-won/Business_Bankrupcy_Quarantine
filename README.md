@@ -42,8 +42,9 @@
 유비온에서의 프로젝트1 일정은 다음과 같습니다.  
 
 <img src="https://user-images.githubusercontent.com/96242198/167255836-43342bc1-83eb-4848-a6ec-de54cb543ddb.png" width="700" height="600"/>  
-#
-  
+
+#  
+
        
 - 데이터 탐색과정에 대한 일지를 작성해야 합니다. 디렉토리 명 : Diary 
 - 데이터 분석 추진 배경 및 목적을 기술합니다. 디렉토리 명 : Paper  
