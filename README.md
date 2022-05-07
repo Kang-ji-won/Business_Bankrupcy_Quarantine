@@ -4,6 +4,12 @@
 
 금융빅데이터 유비온 3기(BBQ조)
 
+# Contributors(BBQ 팀원)
+- [강지원](https://github.com/Kang-ji-won)
+- [박혜연](https://github.com/hye-y/Happy_IT)
+- [황윤재](https://github.com/YJ-97)
+- [장동민](https://github.com/Blueberrycake27)
+
 데이터 사이언티스트가 하는 일에는 다양한 종류가 있습니다.    
 첫째, **데이터 엔지니어** 흔히 말하는 개발자에 가깝습니다.   
   
@@ -31,8 +37,4 @@
 - 데이터 탐색과정에 대한 일지를 작성해야 합니다. 디렉토리 명 : Diary 
 - 데이터 분석 추진 배경 및 목적을 기술합니다. 디렉토리 명 : Paper  
 
-# Contributors
-- [강지원](https://github.com/Kang-ji-won)
-- [박혜연](https://github.com/hye-y/Happy_IT)
-- [황윤재](https://github.com/YJ-97)
-- [장동민](https://github.com/Blueberrycake27)
+
