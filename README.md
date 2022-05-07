@@ -11,7 +11,9 @@
 - [박혜연](https://github.com/hye-y/Happy_IT)
 - [황윤재](https://github.com/YJ-97)
 - [장동민](https://github.com/Blueberrycake27)  
-
+  
+    
+    
 
 데이터 사이언티스트가 하는 일에는 다양한 종류가 있습니다.    
 첫째, **데이터 엔지니어** 흔히 말하는 개발자에 가깝습니다.   
