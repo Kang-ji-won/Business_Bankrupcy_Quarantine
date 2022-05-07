@@ -50,3 +50,15 @@
 - 데이터 분석 추진 배경 및 목적을 기술합니다. 디렉토리 명 : [Paper(관련논문) 폴더](https://github.com/Blueberrycake27/Business_Bankrupcy_Quarantine/tree/main/paper)  
 
 
+
+## 참고 사이트
+- [kis Value](https://www.kisvalue.com/web/index.jsp)  
+
+- [재무비율정보](https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A034950&cID=&MenuYn=Y&ReportGB=D&NewMenuID=Y&stkGb=701)
+
+- [전자공시DART를 활용한 재무비율일괄다운](https://opendart.fss.or.kr/disclosureinfo/fnltt/dwld/main.do)
+
+- [TS2000](http://www.kocoinfo.com)
+
+ 
+
