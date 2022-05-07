@@ -13,4 +13,4 @@
 ## 프로젝트 일정
 
 유비온에서의 프로젝트1 일정은 다음과 같습니다.
-![프로젝트1 일정표](https://user-images.githubusercontent.com/96242198/167255836-43342bc1-83eb-4848-a6ec-de54cb543ddb.png width="700" height="370")
+<img src="https://user-images.githubusercontent.com/96242198/167255836-43342bc1-83eb-4848-a6ec-de54cb543ddb.png" width="700" height="370"/>
