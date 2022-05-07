@@ -2,9 +2,11 @@
 
 --------------------------------------------
 
-금융빅데이터 유비온 3기(BBQ조)
+금융빅데이터 유비온 3기(BBQ조)  
 
-# Contributors(BBQ 팀원)
+
+# Contributors(BBQ 팀원)  
+
 - [강지원](https://github.com/Kang-ji-won)
 - [박혜연](https://github.com/hye-y/Happy_IT)
 - [황윤재](https://github.com/YJ-97)
