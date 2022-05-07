@@ -46,7 +46,7 @@
 #  
 
        
-- 데이터 탐색과정에 대한 일지를 작성해야 합니다. 디렉토리 명 : Diary 
-- 데이터 분석 추진 배경 및 목적을 기술합니다. 디렉토리 명 : Paper  
+- 데이터 탐색과정에 대한 일지를 작성해야 합니다. 디렉토리 명 : [Diary] (https://github.com/Blueberrycake27/Business_Bankrupcy_Quarantine/tree/main/diary)
+- 데이터 분석 추진 배경 및 목적을 기술합니다. 디렉토리 명 : [Paper] (https://github.com/Blueberrycake27/Business_Bankrupcy_Quarantine/tree/main/paper)  
 
 
