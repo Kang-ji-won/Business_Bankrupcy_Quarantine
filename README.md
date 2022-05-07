@@ -32,3 +32,7 @@
 - 데이터 분석 추진 배경 및 목적을 기술합니다. 디렉토리 명 : Paper  
 
 # Contributors
+- [강지원](https://github.com/Kang-ji-won)
+- [박혜연](https://github.com/hye-y/Happy_IT)
+- [황윤재](https://github.com/YJ-97)
+- [장동민](https://github.com/Blueberrycake27)
